@@ -1,0 +1,1 @@
+export default () => "Vertex Arts info";

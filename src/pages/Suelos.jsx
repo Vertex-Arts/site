@@ -1,0 +1,1 @@
+export default () => "Suelos page with sections";

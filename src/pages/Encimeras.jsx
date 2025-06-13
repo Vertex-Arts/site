@@ -1,0 +1,1 @@
+export default () => "Encimeras page with sections";
